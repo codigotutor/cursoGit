@@ -32,3 +32,9 @@ sigo haciendo haciendo cambios
 =======
 corrijo o aplico el hotfix
 >>>>>>> .merge_file_a10308
+
+
+
+commit 1 fastforward
+
+
