@@ -24,7 +24,11 @@ cambios abajuo
 cambios 2
 
 
+<<<<<<< .merge_file_a10228
 caracteristica 2
 
 
 sigo haciendo haciendo cambios
+=======
+corrijo o aplico el hotfix
+>>>>>>> .merge_file_a10308
